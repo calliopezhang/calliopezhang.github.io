@@ -1,0 +1,18 @@
+body {
+    background-image: url("assets/bear.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+#text {
+    flex-direction: column;
+    top:50%;
+    left:50%;
+    transform:translate(25%,50%);
+}
+
+#sleepy {
+    color: #90809d;
+    font-size: 5.0em;
+}

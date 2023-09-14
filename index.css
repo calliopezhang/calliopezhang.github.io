@@ -1,0 +1,42 @@
+body {
+    background-image: url("assets/sunset.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+  }
+
+#rectangle{
+    width:500px;
+    height:300px;
+    background-color:#c2b6d9;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    border: 5px solid #603b3c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+
+#name {
+    font-family: 'Sacramento', cursive;
+    color: #603b3c;
+    font-size: 4.0em;
+    margin: 0;
+}
+
+a {
+    color: #603b3c;
+    text-decoration: none;
+    padding: 4px;
+    font-size: 3.0em;
+  }
+
+#aboutme {
+    font-family: 'Gochi Hand', sans-serif;
+    color: #88665b;
+    font-size: 0.5em;
+    margin: 20;
+}
