@@ -16,14 +16,12 @@ body {
     flex-direction: column;
 }
 
-#aboutme {
+#projects {
     font-family: 'Gochi Hand', sans-serif;
     color: #b4564c;
     font-size: 3.5em;
     margin: 0;
 }
-
-
 
 #stuff {
     font-family: 'Gochi Hand', sans-serif;
